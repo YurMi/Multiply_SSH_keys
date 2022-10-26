@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=N2hMGEeYR7c
 
 
 
-###Steps: 
+Steps: 
  1. Create second SSH Key
     $ cd .ssh
     $ ssh-keygen -f nameNewKey_id_rsa
